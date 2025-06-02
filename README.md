@@ -18,3 +18,12 @@ This service aggregates grocery prices from multiple stores by scraping or consu
 1. Install Python dependencies:  
    ```bash
    pip install -r requirements.txt
+
+2. Run MongoDB locally or use cloud MongoDB
+
+3. Configure store API URLs or scraping targets in config.json
+
+4. Start the aggregator:
+
+python aggregator.py
+5. Access aggregated prices at http://localhost:5000/prices
