@@ -1,0 +1,6 @@
+{
+  "stores": [
+    {"name": "StoreA", "url": "https://storea.com/groceries"},
+    {"name": "StoreB", "url": "https://storeb.com/groceries"}
+  ]
+}
